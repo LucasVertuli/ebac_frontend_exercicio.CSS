@@ -15,3 +15,16 @@ header li {
     margin: 0 auto;
 }
 
+.articles {
+    display: flex;
+    justify-content: space-between;
+}
+
+.articles article img {
+    height: 180px;
+}
+
+.articles article {
+    width: 30%;
+}
+
