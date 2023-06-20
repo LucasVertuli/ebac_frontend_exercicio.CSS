@@ -28,3 +28,16 @@ header li {
     width: 30%;
 }
 
+.contato img {
+    height: 60px;
+    display: flex;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+.contato a {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
