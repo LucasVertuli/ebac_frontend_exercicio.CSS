@@ -55,7 +55,7 @@ header li {
 }
 
 .articles article {
-    width: 30%;
+    width: 31%;
 }
 
 .contato img {
@@ -143,5 +143,9 @@ section h2 {
 }
 #Word {
     background-color:#000;
+}
+
+h2{
+    background-color: #00004e;
 }
 
