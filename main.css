@@ -40,8 +40,9 @@ header li {
 
 
 .container {
-    width: 1366px;
-    margin: 0 auto;
+    margin: 80px auto;
+    max-width: 1366px;
+    width: 100%;
 }
 
 .articles {
