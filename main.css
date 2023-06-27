@@ -86,10 +86,6 @@ section h2, .articles article {
 }
 
 .articles article a  {
-    background-color:#3318bf;
-    ;
-    color:#ffffff;
-    ;
     padding: 8px;
     display: inline-block;
     text-decoration: none;
@@ -129,23 +125,61 @@ section h2 {
     color: #ffffff;
 }
 
-#Sports {
-    background-color:#000;
-    ;
+#Sports{
+    background-color:rgb(17, 131, 2);
+}
+#Sports h2{
+    background-color: rgb(247, 0, 255);
+
 }
 
+#Sports a{
+    background-color: rgb(247, 0, 255);
+    color:#eeeeee ;
+}
+
+
 #Economy {
-    background-color:#000;
+    background-color:#ffaa00;
+}
+
+#Economy h2{
+    background-color:  #c92d59;
+}
+
+#Economy a{
+    background-color:  #c92d59;
+    color: #eeeeee;
 }
 
 #games {
-    background-color:#000;
+    background-color:#160b29;
 }
+
+#games h2{
+    background-color:#f84d0a ;
+}
+
+#games a {
+    background-color:#f84d0a;
+    color:#eeeeee;
+}
+
 #Word {
-    background-color:#000;
+    background-color:#181818;
+}
+
+#Word h2{
+    background-color: #ffaa00 ;
+}
+
+#Word a {
+    background-color:#ffaa00;
+    color:#eeeeee ;
 }
 
 h2{
-    background-color: #00004e;
+    background-color: #1e833f;
 }
+
 
